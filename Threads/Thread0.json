@@ -1,0 +1,152 @@
+[
+    {
+        "usuario": 1,
+        "valorApostado": 8.5,
+        "saldo": 25.5,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 5,
+        "valorApostado": 27.5,
+        "saldo": 0,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 9,
+        "valorApostado": 12.5,
+        "saldo": 4,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 13,
+        "valorApostado": 48.5,
+        "saldo": 0,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 17,
+        "valorApostado": 12.5,
+        "saldo": 2,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 21,
+        "valorApostado": 16.5,
+        "saldo": 101,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 25,
+        "valorApostado": 25.5,
+        "saldo": 306,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 29,
+        "valorApostado": 29,
+        "saldo": 174,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 33,
+        "valorApostado": 38,
+        "saldo": 342,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 37,
+        "valorApostado": 22,
+        "saldo": 70,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 41,
+        "valorApostado": 19.5,
+        "saldo": 117,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 45,
+        "valorApostado": 43,
+        "saldo": 0,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 49,
+        "valorApostado": 34.5,
+        "saldo": 310.5,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 53,
+        "valorApostado": 9,
+        "saldo": 0,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 57,
+        "valorApostado": 42.5,
+        "saldo": 255,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 61,
+        "valorApostado": 15,
+        "saldo": 0,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 65,
+        "valorApostado": 20,
+        "saldo": 120,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 69,
+        "valorApostado": 43,
+        "saldo": 0,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 73,
+        "valorApostado": 22.5,
+        "saldo": 0,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 77,
+        "valorApostado": 41,
+        "saldo": 369,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 81,
+        "valorApostado": 26.5,
+        "saldo": 79.5,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 85,
+        "valorApostado": 22,
+        "saldo": 66,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 89,
+        "valorApostado": 12.5,
+        "saldo": 75,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 93,
+        "valorApostado": 42,
+        "saldo": 252,
+        "tentativasGratisDiarias": 0
+    },
+    {
+        "usuario": 97,
+        "valorApostado": 38.5,
+        "saldo": 231,
+        "tentativasGratisDiarias": 0
+    }
+]
